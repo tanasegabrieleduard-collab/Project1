@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Aplicatie2.cpp" />
     <ClCompile Include="Aplicatie3.cpp" />
+    <ClCompile Include="Curs5.cpp" />
     <ClCompile Include="Seminar4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
